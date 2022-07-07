@@ -1,5 +1,5 @@
 # Analysis-on-Facebook-Utilization
-Introduction:
+**Introduction:**
 
 As we all know Facebook is an online social media and social networking service, Founded in 2004 by Mark Zuckerberg, claimed 2.8 billion monthly active users and ranked seventh in global internet usage
 
@@ -22,3 +22,35 @@ Only Half of Facebook Users Speak English. More than half of Facebook accounts a
 The Average Daily Time People Spend on Facebook Is 58 Minutes.
 
 Facebook Is a Popular Platform for Marketers as well.
+
+**Problem Statement:**
+This section is emphasised on providing some generic introduction to the problem that most companies confronts.
+
+Example Problem Statement:
+
+This era has been under the influence of rapid development for the past few years.
+
+Most of the time social applications fails to stay up to date, resulting in great loss to the company.
+
+Unlike any other incorporation, Facebook has become quite popular in the past few years, more specifically since 2005.
+
+People from all over the world are still using it as a medium to share their thoughts and feelings among others.
+
+With the rise in the popularity of the application it is very necessary to stay updated and they are trying really hard...
+Derive a scenario related to the problem statement and heads on to the journey of exploration.
+
+*Example Scenario:*
+
+Facebook, Inc. is an American social media conglomerate corporation, founded on February, 2004 by Mark Zuckerberg.
+
+People from all age groups are connected with each other through facebook.
+
+However, there are certain differences in the way of using it, let's say sending friend requests, sending likes, comments etc.
+
+Let's say they want to study and analyze these differences and identify the pattern out of it.
+
+This is result will help the company to utilize these patterns in the next set of iteration development.
+
+Maybe this hidden pattern could end up improving their application and the user experience.
+
+To tackle this problem they hired a genius team of data scientists. Consider you are one of them..
